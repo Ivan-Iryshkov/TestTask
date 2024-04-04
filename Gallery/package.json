@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@vue/eslint-config-airbnb": "^8.0.0",
+    "axios": "^1.6.8",
     "eslint-config-airbnb-typescript": "^18.0.0",
     "pinia": "^2.1.7",
     "vue": "^3.4.21"
