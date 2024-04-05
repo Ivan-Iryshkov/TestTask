@@ -15,7 +15,8 @@
     "axios": "^1.6.8",
     "eslint-config-airbnb-typescript": "^18.0.0",
     "pinia": "^2.1.7",
-    "vue": "^3.4.21"
+    "vue": "^3.4.21",
+    "vuejs-paginate-next": "^1.0.2"
   },
   "devDependencies": {
     "@tsconfig/node20": "^20.1.2",
