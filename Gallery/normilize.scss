@@ -349,22 +349,3 @@ template {
 [hidden] {
   display: none;
 }
-
-body {
-  font-weight: 700;
-}
-
-.painting {
-  position: relative;
-  .desc-name {
-    position: absolute;
-    padding: 5px;
-    padding-left: 15px;
-    width: 360px;
-    bottom: 0;
-    left: 0;
-    line-height: 20px;
-    background-color: #ffffffbf;
-    opacity: 0.75;
-  }
-}
